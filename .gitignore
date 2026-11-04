@@ -1,0 +1,4 @@
+venv/
+.env
+extracted_text.json
+__pycache__/
